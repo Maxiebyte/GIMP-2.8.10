@@ -1,0 +1,16 @@
+*.otf
+*.aux
+*.out
+*.pdf
+*.toc
+*.idx
+*.~
+*~
+*.log
+Wilber-head.png
+*.save
+\#*\#
+png-preview
+*/.comments/*
+*.dep
+.comments

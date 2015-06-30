@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="211.3" width="176.3" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <radialGradient id="radialGradient3809" gradientUnits="userSpaceOnUse" cy="1049" cx="31.31" gradientTransform="matrix(1,0,0,0.30107528,0,733.05088)" r="46.97">
+   <stop stop-color="#000" offset="0"/>
+   <stop stop-color="#000" stop-opacity="0.80624998" offset="0.5"/>
+   <stop stop-color="#000" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(82.392677,-860.39175)">
+  <path d="m78.29,1049c0,7.81-21.03,14.14-46.97,14.14s-46.97-6.332-46.97-14.14c0-7.81,21.03-14.14,46.97-14.14s46.97,6.332,46.97,14.14z" transform="matrix(1.3333333,0,0,1.3333333,-10.438244,-345.56829)" fill="url(#radialGradient3809)"/>
+  <rect stroke-linejoin="miter" stroke-dasharray="none" stroke-dashoffset="0" height="59.97" width="60" stroke="#191970" stroke-linecap="round" stroke-miterlimit="4" y="862.4" x="2.001" stroke-width="4.001" fill="#4169e1"/>
+  <rect height="45" width="45.02" stroke-miterlimit="4" y="870.4" x="8.989" stroke-width="0" fill="#191970"/>
+  <rect stroke-linejoin="miter" stroke-dasharray="none" stroke-dashoffset="0" height="60" width="60" stroke="#dc143c" stroke-linecap="round" stroke-miterlimit="4" y="926.4" x="2.001" stroke-width="4.002" fill="#F00"/>
+  <rect height="45.02" width="45.02" stroke-miterlimit="4" y="934.4" x="8.989" stroke-width="0" fill="#dc143c"/>
+  <rect stroke-linejoin="miter" stroke-dasharray="none" stroke-dashoffset="0" height="60" width="60" stroke="#32cd32" stroke-linecap="round" stroke-miterlimit="4" y="990.4" x="2.001" stroke-width="4.002" fill="#0F0"/>
+  <rect height="45.02" width="45.02" stroke-miterlimit="4" y="998.4" x="8.989" stroke-width="0" fill="#32cd32"/>
+  <rect stroke-linejoin="round" stroke-dasharray="none" stroke-dashoffset="0" height="52.14" width="32.86" stroke="#c0c0c0" stroke-linecap="round" stroke-miterlimit="4" y="901.9" x="-81.39" stroke-width="2" fill="#dcdcdc"/>
+  <path stroke-linejoin="miter" d="m-48.54,901.9,29.29,0,55.71,55.71-7.857,7.857-53.93-53.93,31.96,31.96-7.679,7.679-29.29-29.29,29.64,29.64-6.071,6.071-28.57-28.57,28.57,28.57-6.964,6.964-26.43-26.43,26.07,26.07-7.143,7.143-19.46-17.19-7.857-0.13z" stroke="#ff8c00" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2" fill="#ffb382"/>
+ </g>
+</svg>
